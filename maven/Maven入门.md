@@ -95,4 +95,3 @@ Xml 代码
       <version>1.0-SNAPSHOT</version>
     </dependency> 
 
-好了，maven 的核心概念就简单的介绍到这里。至于在 Eclipse 中如何使用 maven，这个网上很多了，google 一下就行。

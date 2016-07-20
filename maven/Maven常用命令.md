@@ -8,6 +8,11 @@ mvn archetype:generate
 mvn tomcat:run -Dmaven.tomcat.port=9090
 #其它关联项目有过更新的话,一定要在项目根目录下运行mvn clean install来执行更新
 mvn clean install
+
+
+# git 解决冲突的常用命令
+git checkout -- theirs(ours) -- ${path/to/the/conflicted/file}
+
 ```
 
 
